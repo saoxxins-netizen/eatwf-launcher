@@ -1,0 +1,4 @@
+/sealed/** -text
+/sealed-channel.json -text
+/sealed-channel.json.sig -text
+/.release-inputs/** -text

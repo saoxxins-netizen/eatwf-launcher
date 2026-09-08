@@ -1,0 +1,20 @@
+name: Publish launcher 0.4.2
+on:
+  push:
+    branches: [main]
+    paths: ['.release-inputs/v0.4.2/**']
+permissions:
+  contents: write
+concurrency:
+  group: launcher-release-0.4.2
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+      - name: Verify asset and publish prerelease
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .release-inputs/v0.4.2/publish.py
