@@ -1,14 +1,14 @@
 {
   "clientFormat": "eatwf-sealed-v2",
-  "version": "43.5.4.59",
+  "version": "43.5.4.60",
   "minimumLauncherVersion": "0.5.6",
   "manifest": {
-    "size": 842909,
-    "sha256": "8d9d798fb1b49c6f96c0c45cd46dc0db4ab95ede90e534ec3b7a1c56c45dfd7a",
+    "size": 843598,
+    "sha256": "c209eb95a657178e6dd1441a84904d36aed96047c7fce817fc217a31b9fbb61f",
     "mirrors": [
-      "https://gitee.com/saoxxins/eatwf-client-channel/raw/master/sealed/manifests/PayloadManifest-43.5.4.59-8d9d798fb1b4.ewfl",
-      "https://gitee.com/api/v5/repos/saoxxins/eatwf-client-channel/git/blobs/b8b4c859e714e2e8d069043188f161f3304f5770",
-      "https://raw.githubusercontent.com/saoxxins-netizen/eatwf-launcher/main/sealed/manifests/PayloadManifest-43.5.4.59-8d9d798fb1b4.ewfl"
+      "https://gitee.com/saoxxins/eatwf-client-channel/raw/master/sealed/manifests/PayloadManifest-43.5.4.60-c209eb95a657.ewfl",
+      "https://gitee.com/api/v5/repos/saoxxins/eatwf-client-channel/git/blobs/d703147a61baefc205259536b8083da0466137d4",
+      "https://raw.githubusercontent.com/saoxxins-netizen/eatwf-launcher/main/sealed/manifests/PayloadManifest-43.5.4.60-c209eb95a657.ewfl"
     ]
   },
   "payloadBaseUrls": [],
