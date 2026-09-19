@@ -1,0 +1,20 @@
+{
+  "tag": "v0.5.8",
+  "file": "EATWF-Launcher-0.5.8.exe",
+  "size": 106412705,
+  "sha256": "4a8ae34d2716c5d6532710a59f93346251f8c0caf770b1cd1637d1a3c33a615b",
+  "parts": [
+    {
+      "file": "launcher.part0",
+      "sha256": "e510ba9a6a946cae511c14efaf2e25fe3dda2b8417d50b74b7851cb14672e64b"
+    },
+    {
+      "file": "launcher.part1",
+      "sha256": "6a64308a9feb5506b05a452a771d7e30ae9e2009523ff9f07cd0be05a557675b"
+    },
+    {
+      "file": "launcher.part2",
+      "sha256": "42a6de0629824c7229fc341b07faa66b30414049c4c3ecc7e4e49452b77b6c2f"
+    }
+  ]
+}
