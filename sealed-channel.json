@@ -17,11 +17,12 @@
     "https://raw.githubusercontent.com/saoxxins-netizen/eatwf-launcher/main/sealed-channel.json"
   ],
   "launcher": {
-    "version": "0.5.9",
-    "size": 105606305,
-    "sha256": "957e377ee2d557946b7467d1d57c62fb2d509e083041635901739ba8ae3d9953",
+    "version": "0.5.10",
+    "size": 90042531,
+    "sha256": "f6873820fb2b4a6958fbd79dc89ee79b5388e55ae4ec183a85fa95019985f0b0",
     "mirrors": [
-      "https://github.com/saoxxins-netizen/eatwf-launcher/releases/download/v0.5.9/EATWF-Launcher-0.5.9.exe"
+      "https://gitee.com/api/v5/repos/saoxxins/eatwf-client-channel/git/blobs/8b3a7a7364060d7021017d41ba36206e8ffcfe4e",
+      "https://github.com/saoxxins-netizen/eatwf-launcher/releases/download/v0.5.10/EATWF-Launcher-0.5.10.exe"
     ]
   }
 }
