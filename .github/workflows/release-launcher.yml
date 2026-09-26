@@ -1,12 +1,12 @@
-name: Publish launcher 0.5.8
+name: Publish launcher 0.5.9
 on:
   push:
     branches: [main]
-    paths: ['.release-inputs/v0.5.8/**']
+    paths: ['.release-inputs/v0.5.9/**']
 permissions:
   contents: write
 concurrency:
-  group: launcher-release-0.5.8
+  group: launcher-release-0.5.9
   cancel-in-progress: false
 jobs:
   publish:
@@ -17,4 +17,4 @@ jobs:
       - name: Verify asset and publish prerelease
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python3 .release-inputs/v0.5.8/publish.py
+        run: python3 .release-inputs/v0.5.9/publish.py
