@@ -1,0 +1,16 @@
+{
+  "tag": "v0.5.13",
+  "file": "EATWF-Launcher-0.5.13.exe",
+  "size": 91260067,
+  "sha256": "858f140b51398389a013c10b8762cb72aac13adaf4197b4c52943df07af28a4d",
+  "parts": [
+    {
+      "file": "launcher.part0",
+      "sha256": "c9f02e506d6d46bdf0dc75bcddde98e959b198671b377e3fda96eb4136cfdd92"
+    },
+    {
+      "file": "launcher.part1",
+      "sha256": "cdfa4ede2710bc9e02dc7419c52764ccda7aeade997090f3d5dd864e3f117e40"
+    }
+  ]
+}
