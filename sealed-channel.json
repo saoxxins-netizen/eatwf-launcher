@@ -1,14 +1,14 @@
 {
   "clientFormat": "eatwf-sealed-v2",
-  "version": "44.0.1.9",
-  "minimumLauncherVersion": "0.5.10",
+  "version": "44.0.1.10",
+  "minimumLauncherVersion": "0.5.12",
   "manifest": {
-    "size": 1160571,
-    "sha256": "f2cd0dc3cdc4874ff58a139e6af71b2a8dfae6a87a9cdb7582a9fa5480cdb92f",
+    "size": 1160610,
+    "sha256": "7fca65caa9c4240fd6159d6831d0de6cba5f5fcfb920a8f5f1237f5c95b513ea",
     "mirrors": [
-      "https://gitee.com/saoxxins/eatwf-client-channel/raw/master/sealed/manifests/PayloadManifest-44.0.1.9-f2cd0dc3cdc4.ewfl",
-      "https://gitee.com/api/v5/repos/saoxxins/eatwf-client-channel/git/blobs/1eba8e3cb84594914b59b985e220e1fb60ccd173",
-      "https://raw.githubusercontent.com/saoxxins-netizen/eatwf-launcher/main/sealed/manifests/PayloadManifest-44.0.1.9-f2cd0dc3cdc4.ewfl"
+      "https://gitee.com/saoxxins/eatwf-client-channel/raw/master/sealed/manifests/PayloadManifest-44.0.1.10-7fca65caa9c4.ewfl",
+      "https://gitee.com/api/v5/repos/saoxxins/eatwf-client-channel/git/blobs/c0e7fc9c83178a070dffdede5bfc787de8c268a7",
+      "https://raw.githubusercontent.com/saoxxins-netizen/eatwf-launcher/main/sealed/manifests/PayloadManifest-44.0.1.10-7fca65caa9c4.ewfl"
     ]
   },
   "payloadBaseUrls": [],
@@ -17,12 +17,12 @@
     "https://raw.githubusercontent.com/saoxxins-netizen/eatwf-launcher/main/sealed-channel.json"
   ],
   "launcher": {
-    "version": "0.5.11",
-    "size": 91258019,
-    "sha256": "19093f6587a8d31770290b673bd95f46155baa9ac1a96570edfa65cfc438e24c",
+    "version": "0.5.12",
+    "size": 91258531,
+    "sha256": "a041ef33fe473c4fc12f4c62362e7d55e20a10a3cbe063b82192b5797f93e3a7",
     "mirrors": [
-      "https://gitee.com/api/v5/repos/saoxxins/eatwf-client-channel/git/blobs/d3cea30ad7e75b28d960359a0a97cdbb480c8a56",
-      "https://github.com/saoxxins-netizen/eatwf-launcher/releases/download/v0.5.11/EATWF-Launcher-0.5.11.exe"
+      "https://gitee.com/api/v5/repos/saoxxins/eatwf-client-channel/git/blobs/a66bbe777c40f325eb5cf82937c562ed7058ed80",
+      "https://github.com/saoxxins-netizen/eatwf-launcher/releases/download/v0.5.12/EATWF-Launcher-0.5.12.exe"
     ]
   }
 }
