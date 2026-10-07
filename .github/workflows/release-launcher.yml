@@ -1,0 +1,20 @@
+name: Publish launcher 0.5.14 and reset archived releases
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: launcher-release-0.5.14
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+      - name: Verify new asset, publish, remove archived releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .release-inputs/v0.5.14/publish.py

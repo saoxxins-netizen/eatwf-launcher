@@ -1,0 +1,45 @@
+{
+  "file": "EATWF-Launcher-0.5.14.exe",
+  "tag": "v0.5.14",
+  "size": 92873377,
+  "sha256": "0170d44ab451f0f5509db909721f39718bebdcef07dc5f717ce10195780d57cf",
+  "source": "https://gitee.com/api/v5/repos/saoxxins/eatwf-client-channel/git/blobs/e825ac5c1d36b79964b8c240829cc7ad39160bbd",
+  "oldReleases": [
+    {
+      "id": 398605828,
+      "tag_name": "v0.5.13"
+    },
+    {
+      "id": 398504954,
+      "tag_name": "v0.5.12"
+    },
+    {
+      "id": 398381786,
+      "tag_name": "v0.5.11"
+    },
+    {
+      "id": 397327808,
+      "tag_name": "v0.5.10"
+    },
+    {
+      "id": 397322906,
+      "tag_name": "v0.5.9"
+    },
+    {
+      "id": 392180623,
+      "tag_name": "v0.5.8"
+    },
+    {
+      "id": 385486727,
+      "tag_name": "v0.5.6"
+    },
+    {
+      "id": 384986075,
+      "tag_name": "v0.4.2"
+    },
+    {
+      "id": 384958237,
+      "tag_name": "v0.4.1"
+    }
+  ]
+}
