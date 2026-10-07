@@ -1,14 +1,14 @@
 {
   "clientFormat": "eatwf-sealed-v2",
-  "version": "44.1.0.1",
-  "minimumLauncherVersion": "0.5.14",
+  "version": "44.1.0.2",
+  "minimumLauncherVersion": "0.5.15",
   "manifest": {
-    "size": 1763409,
-    "sha256": "acff4320d9f1e7e08699f8aafb2cd1baf0ac5b7f0fe1000bc7890c35dea3cf54",
+    "size": 1764096,
+    "sha256": "6ed9af24902e10e246831cec1e760095037f170fa224ade9fa16c0e0f9297efb",
     "mirrors": [
-      "https://gitee.com/saoxxins/eatwf-client-channel/raw/master/sealed/manifests/PayloadManifest-44.1.0.1.ewfl",
-      "https://gitee.com/api/v5/repos/saoxxins/eatwf-client-channel/git/blobs/a37c10f39c5671d82900c61b68b7038b19c4e563",
-      "https://raw.githubusercontent.com/saoxxins-netizen/eatwf-launcher/main/sealed/manifests/PayloadManifest-44.1.0.1.ewfl"
+      "https://gitee.com/saoxxins/eatwf-client-channel/raw/master/sealed/manifests/PayloadManifest-44.1.0.2.ewfl",
+      "https://gitee.com/api/v5/repos/saoxxins/eatwf-client-channel/git/blobs/4ba6adccbb323a895a7ed40f54de06dbecb19e03",
+      "https://raw.githubusercontent.com/saoxxins-netizen/eatwf-launcher/main/sealed/manifests/PayloadManifest-44.1.0.2.ewfl"
     ]
   },
   "payloadBaseUrls": [],
@@ -17,13 +17,13 @@
     "https://raw.githubusercontent.com/saoxxins-netizen/eatwf-launcher/main/sealed-channel.json"
   ],
   "launcher": {
-    "version": "0.5.14",
-    "size": 92873377,
-    "sha256": "0170d44ab451f0f5509db909721f39718bebdcef07dc5f717ce10195780d57cf",
+    "version": "0.5.15",
+    "size": 92873889,
+    "sha256": "77753ac13800acc3587230de5726b1119f15f65daf57922509e47d4ca1369344",
     "mirrors": [
-      "https://gitee.com/api/v5/repos/saoxxins/eatwf-client-channel/git/blobs/e825ac5c1d36b79964b8c240829cc7ad39160bbd",
-      "https://gitee.com/saoxxins/eatwf-client-channel/raw/master/launcher/0.5.14/EATWF-Launcher-0.5.14.exe",
-      "https://github.com/saoxxins-netizen/eatwf-launcher/releases/download/v0.5.14/EATWF-Launcher-0.5.14.exe"
+      "https://gitee.com/api/v5/repos/saoxxins/eatwf-client-channel/git/blobs/1f8e077569db3b98905814bbc5c6a1877dd5432d",
+      "https://gitee.com/saoxxins/eatwf-client-channel/raw/master/launcher/0.5.15/EATWF-Launcher-0.5.15.exe",
+      "https://github.com/saoxxins-netizen/eatwf-launcher/releases/download/v0.5.15/EATWF-Launcher-0.5.15.exe"
     ]
   }
 }
