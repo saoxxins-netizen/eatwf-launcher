@@ -1,12 +1,13 @@
-name: Publish launcher 0.5.14 and reset archived releases
+name: Publish launcher 0.5.15
 on:
   push:
     branches: [main]
+    paths: ['.release-inputs/v0.5.15/**']
   workflow_dispatch:
 permissions:
   contents: write
 concurrency:
-  group: launcher-release-0.5.14
+  group: launcher-release-0.5.15
   cancel-in-progress: false
 jobs:
   publish:
@@ -14,7 +15,7 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v6
-      - name: Verify new asset, publish, remove archived releases
+      - name: Verify and publish launcher
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python3 .release-inputs/v0.5.14/publish.py
+        run: python3 .release-inputs/v0.5.15/publish.py
