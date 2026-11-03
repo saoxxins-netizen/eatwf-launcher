@@ -1,0 +1,595 @@
+{
+  "schemaVersion": 1,
+  "mode": "known-modified-content",
+  "sourceSampleSHA256": "375ab0f9ab2ce545ecd3c4def3b6d492287f28e7ad35091b069b9561123a62ca",
+  "fingerprints": [
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Interface/DiegeticUpgradeCards.lua",
+      "decodedLength": 303689,
+      "sha256": "db9d0c82d447e20a320fe8f813d2a3aef912530488e93377e8194215c648a429"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Interface/DiegeticUpgradeCards.lua",
+      "decodedLength": 306035,
+      "sha256": "e2378fa1befd2e01b051151d8f5ad8a0886d2dfb9b0f0c9181010f28f04bb53b"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Interface/DiegeticUpgradeCards.lua",
+      "decodedLength": 308417,
+      "sha256": "2e2ed6b7488679739df9a03779d77c77b6a65e28cb031b7e8511141d39257e47"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Interface/SixStackSetup.lua",
+      "decodedLength": 44560,
+      "sha256": "db2fedf6dbe4c0e2bd77d25e049188f2e209ac4b2929f290600aeb56d56475bd"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Interface/SixStackSetup.lua",
+      "decodedLength": 47051,
+      "sha256": "f1eab6292054b1c09f498bb7d53a612b2cc8e7a0e0d38484d92f6360dcdd621a"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Cowgirl/Abilities/GunFu.lua",
+      "decodedLength": 30763,
+      "sha256": "70cd35dfbb829c4366cd7ae4c6d2fb37474ac189f1021472e6990d8f4834fc10"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Dagath/Abilities/DagathCurse.lua",
+      "decodedLength": 12621,
+      "sha256": "d1792819397b52194f94c2c21b09d0342e1525ed8e23d5c3415887735a52bda6"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Dagath/Abilities/DagathCurse.lua",
+      "decodedLength": 22904,
+      "sha256": "63fd2b040334be0770181f1ef72e33d46ebd8cd9bced1b731c19bc39197aed12"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Dagath/Abilities/DagathHorse.lua",
+      "decodedLength": 17678,
+      "sha256": "24356d77c25588d3f71865d0d93ee9ab3c4cba85cb4b4bdf5be0882311014e93"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Dagath/Abilities/DagathHorse.lua",
+      "decodedLength": 27882,
+      "sha256": "12efaf2a8dca7c7f6d0eb4046aeb5a0302b235530548538cb0e2828a403a2bd9"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Dagath/Abilities/DagathVolley.lua",
+      "decodedLength": 15649,
+      "sha256": "2ad546df240a3c50004c8dbfda57108c9b13ceadcc7e60f0666fc86d6989689a"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/DemonFrame/Abilities/DemonFrameClone.lua",
+      "decodedLength": 16230,
+      "sha256": "3433fe26555fc6c35ca0ff6dbf105b4bc6671702f7a188e2597832e538e63599"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/DemonFrame/Abilities/DemonFrameClone.lua",
+      "decodedLength": 26539,
+      "sha256": "8ed64db7dee4dd7a2abef7f34017556089d0ff5a637567fedd52fdac3d71712c"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/DemonFrame/Abilities/DemonFrameFireBall.lua",
+      "decodedLength": 35682,
+      "sha256": "0d1a972443d370e7f8ed979c9bcf049fb44358f2a479b585206d932cba4d6817"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/DemonFrame/Abilities/DemonFrameFireBall.lua",
+      "decodedLength": 45303,
+      "sha256": "a3bbf16b809dbd27f91dd152db4bd41a895f275df861813e0bab8b448556f530"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/DemonFrame/Abilities/DemonFrameHeal.lua",
+      "decodedLength": 9063,
+      "sha256": "4808d8dba51c08d5707fcca52474993a0d3efc8e628177093cc6d8eefe28b2f3"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/EATWFProgression/AbilityGrowth/Volt/B00/Scripts/Shock.lua",
+      "decodedLength": 22917,
+      "sha256": "ceb9d835ae5f245b3ea91ed9a3813a9d68eeb66122f421cdfe233e533a3208b7"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/EATWFProgression/AbilityGrowth/Volt/B01/Scripts/Shock.lua",
+      "decodedLength": 22917,
+      "sha256": "0e563ebab77a5c903562d39a7602a4e5f49cac84abd3d25bf56cb91d13c779ac"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/EATWFProgression/AbilityGrowth/Volt/B02/Scripts/Shock.lua",
+      "decodedLength": 22917,
+      "sha256": "bf89b5a4dd3489e7c81c55c5222eecceb50e2ba448a7afb10f6811fcc992373b"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/EATWFProgression/AbilityGrowth/Volt/B03/Scripts/Shock.lua",
+      "decodedLength": 22917,
+      "sha256": "3eebb45c1625be9a9bc7ebb0ce6b39001d88e3464b497625f137f066c1174ece"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/EATWFProgression/AbilityGrowth/Volt/B04/Scripts/Shock.lua",
+      "decodedLength": 22917,
+      "sha256": "b79289524f7df9fa2cb8e116077e9f4ff49c05e5e0614244c5eb6891d4aad7a6"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/EATWFProgression/AbilityGrowth/Volt/B05/Scripts/Shock.lua",
+      "decodedLength": 22917,
+      "sha256": "92e48672cd432e8c10d2f6e6bc22e05615570a57586ef62705393961bb8848bd"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/EATWFProgression/AbilityGrowth/Volt/B06/Scripts/Shock.lua",
+      "decodedLength": 22917,
+      "sha256": "2b558a958d2eef673c7919c1721aafc59178e80e7593dc8d1e64235143f776fd"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/EATWFProgression/AbilityGrowth/Volt/B07/Scripts/Shock.lua",
+      "decodedLength": 22917,
+      "sha256": "a3b1a051256efe1a4c256b3e59ca4fc3110b8b624ff12d87c193c41e0a668718"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/EATWFProgression/AbilityGrowth/Volt/B08/Scripts/Shock.lua",
+      "decodedLength": 22917,
+      "sha256": "ad6cab361651be2a1f512726d657592fb39e09f76402a24384cce6b01cb06a18"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/EATWFProgression/AbilityGrowth/Volt/B09/Scripts/Shock.lua",
+      "decodedLength": 22917,
+      "sha256": "f7105b60aafe885458d5c77d655335bb0be9fd679c31b7a2f592356cb79de57f"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/EATWFProgression/AbilityGrowth/Volt/B10/Scripts/Shock.lua",
+      "decodedLength": 22917,
+      "sha256": "25431554133de807c81e796d78cf03a9cc4306fc6d83de78e79ac75bef169920"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/EATWFProgression/AbilityGrowth/Volt/B11/Scripts/Shock.lua",
+      "decodedLength": 22917,
+      "sha256": "e1ca9f6aedf70119a0426f9bf6addbe3b9cb1f67d3761c202688c180d0e9ea2a"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/EATWFProgression/AbilityGrowth/Volt/B12/Scripts/Shock.lua",
+      "decodedLength": 22917,
+      "sha256": "0352ce34311893d8c09269cda92921ef1bde64690f99c9852a3bb18a573f1cd2"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/EATWFProgression/AbilityGrowth/Volt/B13/Scripts/Shock.lua",
+      "decodedLength": 22917,
+      "sha256": "c806dddcf0b50e3a5a83b2e5f5553355a11ada259a3caddeb1fb641c2ed5964e"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/EATWFProgression/AbilityGrowth/Volt/B14/Scripts/Shock.lua",
+      "decodedLength": 22917,
+      "sha256": "5ea585f6e9486524aecee315a99d6ff32da93c7ba7df79fd39ea44be0cf6cf6b"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/EATWFProgression/AbilityGrowth/Volt/B15/Scripts/Shock.lua",
+      "decodedLength": 22917,
+      "sha256": "bf9b352465cd11b206f5e0c305df10af2d3db451269f1ccb0d3c0e552ce8ff83"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/EATWFProgression/AbilityGrowth/Volt/B16/Scripts/Shock.lua",
+      "decodedLength": 22917,
+      "sha256": "9cdb6e016280b852966ff1fdfa4550bd5fd2407771bcf0d6db5014795161d418"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/EATWFProgression/AbilityGrowth/Volt/B17/Scripts/Shock.lua",
+      "decodedLength": 22917,
+      "sha256": "865e4621134d1176d8ad8ea5df6e8b5eb5f2bde0689e95d35365cbe47c640f9c"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/EATWFProgression/AbilityGrowth/Volt/B18/Scripts/Shock.lua",
+      "decodedLength": 22917,
+      "sha256": "0ed5e0ff978138c9df61c517713dd4e7a842ef25888c0180c1d18d312b69b91f"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/EATWFProgression/AbilityGrowth/Volt/B19/Scripts/Shock.lua",
+      "decodedLength": 22917,
+      "sha256": "ee15f691509a933d71f6322e7c6e03c7957174ee5a58b3380e076b02ac79648e"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/EATWFProgression/AbilityGrowth/Volt/B20/Scripts/Shock.lua",
+      "decodedLength": 22917,
+      "sha256": "3a520adca022883dff98e3646161c7b1d63b740ec1262b941a901ca4359b43b4"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Ember/Abilities/EmberInferno.lua",
+      "decodedLength": 14242,
+      "sha256": "8bfdd4952eb5e5814f3f1b9b8190b445e3e15fcd253337172135047e800e2960"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Ember/Abilities/EmberInferno.lua",
+      "decodedLength": 24519,
+      "sha256": "8d10baa288bfb6d077df527774815f0cd22da035bd146964cfaa92fc59dd43b8"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Gyre/Abilities/GyrePulse.lua",
+      "decodedLength": 19715,
+      "sha256": "acb0cd265f628a70f90360a808278b0beba1155a6682b14f1a975bad67bb1028"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Gyre/Abilities/GyrePulse.lua",
+      "decodedLength": 29951,
+      "sha256": "d68ca5c4f71132ec95ce7ca462f0f28a2edb448a1b2d8f4abfb4fbe42a287a37"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Harlequin/Abilities/Illusion.lua",
+      "decodedLength": 17035,
+      "sha256": "78b0a0b21e207144482995abc9b6eab0bf81c2d449e4e27d52f8bad5f592e6be"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Harlequin/Abilities/Prism.lua",
+      "decodedLength": 20470,
+      "sha256": "abd05788af4b504120602542b4aa6b2e7f078925494f2902e5fc938cbc107bd5"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Magician/Abilities/TearInSpace.lua",
+      "decodedLength": 16873,
+      "sha256": "6695a6956664b6556ae948e11988306db106f69613d27eab9a259548522557ff"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Magician/Abilities/TearInSpace.lua",
+      "decodedLength": 26889,
+      "sha256": "fe29320c0f8c1c7b8da1713a0b0bc2d6c062bfdbee2582f79f629d2fec63a2b1"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Magician/Abilities/Volatile.lua",
+      "decodedLength": 12586,
+      "sha256": "8101df0d32901b770555289696c0c75313372edebbfebe483513a73cd0dbae86"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Ninja/Abilities/Glaive.lua",
+      "decodedLength": 12259,
+      "sha256": "4d9b80db8db72eed072b486dfcbcb9d4fe848027a4dc252284cd4a5ff57fd834"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Nokko/Abilities/NokkoLaunch.lua",
+      "decodedLength": 16777,
+      "sha256": "3a00bd153483896b7abe6aa570f9fbc14fbffeb6e044dcd27edb76d8d06722c4"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Nokko/Abilities/NokkoLaunch.lua",
+      "decodedLength": 27063,
+      "sha256": "edea8a03b4656ea04a1cda6f18d179374bef595b002d4538101bdc80a5868314"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Pacifist/PacifistPassive.lua",
+      "decodedLength": 2872,
+      "sha256": "2998509dc02c604834246479c6b95ca96a35cd134a2585516bdbe010f1b98fc8"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Pagemaster/Abilities/PagemasterBook.lua",
+      "decodedLength": 23565,
+      "sha256": "6f98b4270d5638527cdda81e74bb75baf790c766a301ed25d3cd88dfc7e30327"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Pagemaster/Abilities/PagemasterBook.lua",
+      "decodedLength": 33817,
+      "sha256": "e810b19ea2baf29ca586e73f50c07db5168a6ae27f0be52f379e1c56f655835c"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Pagemaster/Abilities/PagemasterDeath.lua",
+      "decodedLength": 5923,
+      "sha256": "d476dfdba4031513bbb0d126fece7e4ed790c969ad6b35ed8e031db2a40b99fa"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Pagemaster/Abilities/PagemasterDeath.lua",
+      "decodedLength": 16281,
+      "sha256": "8c472efaa953be6fc08cc3f45d72bc6de56f28aeb54c7097630d485d1b3dc6c6"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Pagemaster/Abilities/PagemasterFinalChapter.lua",
+      "decodedLength": 32884,
+      "sha256": "1f3537ef9a561461059f17c053a23077b97f8e5e1ade1efa9dffea1016aebc32"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Pagemaster/Abilities/PagemasterFinalChapter.lua",
+      "decodedLength": 42664,
+      "sha256": "697244e616ec9a9cd3285b3b0a615c2e6b874ab5b9994b07cbdae302c05ff654"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Pirate/Abilities/Kraken.lua",
+      "decodedLength": 22661,
+      "sha256": "578dd2f64339c5ea81d6f5c88a265bcc863328d3f96e41b71e6d2904270061c0"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/PowersuitAbilities/GulphagorLatchAbility.lua",
+      "decodedLength": 9138,
+      "sha256": "d0ac503795d438ce1758bedc452aa0a35af4c0d4608c1829697d896651998596"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/PowersuitAbilities/VythelasRuneAbility.lua",
+      "decodedLength": 12604,
+      "sha256": "5ccb81fca1c7f532cb11ed1ddedd047eff6812aa019574de1c6de2341afefd7c"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Saryn/Abilities/ExplosiveDissolve.lua",
+      "decodedLength": 6059,
+      "sha256": "97b0b79a6b017a3a6efb7041ef18d6f131ff0db3cc59f257e73d4e2aaadfde64"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Saryn/Abilities/ExplosiveDissolve.lua",
+      "decodedLength": 16363,
+      "sha256": "b67f96812863c88c4899ca6a488f84c41316edaf4f6dfe6160108e970d252c11"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/SiriusOrion/Abilities/SiriusBuff.lua",
+      "decodedLength": 14506,
+      "sha256": "02940637c13f258bbb63ee1e87be34c1a4d17bcb31bf9ba9369be74dc71058ae"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/SiriusOrion/Abilities/SiriusBuff.lua",
+      "decodedLength": 14561,
+      "sha256": "d08277dbdbf7d4b7b951171c8ef93aeb7b451c5b1a4cb5e02779845b7f0a888f"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/SiriusOrion/Abilities/SiriusBuff.lua",
+      "decodedLength": 24863,
+      "sha256": "d828f13949fc109de69c0b42922ab82da67f1b25bebfac52686ccae62cdd8e6b"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Volt/Abilities/Shield.lua",
+      "decodedLength": 24641,
+      "sha256": "bb28004ad813f7b13063de3b0708b7da40e5db02023fcf7c4e347f3a4de30494"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Volt/Abilities/Shield.lua",
+      "decodedLength": 24671,
+      "sha256": "0e5c1d565ab2cc51cb7c0f374068cfb25434f7a23f094aeac51d4d67189fab51"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Volt/Abilities/Shock.lua",
+      "decodedLength": 20222,
+      "sha256": "795d1343c25687f47345ac75e9bee12509c1e53be4cb8314dd91ad809a5122aa"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Wraith/Abilities/WraithReap.lua",
+      "decodedLength": 20885,
+      "sha256": "a71e2cc8f8796cd750eca1686a6dcf11cd9980ea0f462481026067084a3bd7e2"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Wraith/Abilities/WraithReap.lua",
+      "decodedLength": 31130,
+      "sha256": "8e5c6e36795753eb3b45dcdd551a51540146e70d8a95bd46919e8ddd8c000251"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Yareli/Abilities/YareliBubble.lua",
+      "decodedLength": 14906,
+      "sha256": "d675e506d1d6a21d236e6171a563f93670a089e751d7b6689871abf4c7898d52"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Yareli/Abilities/YareliBubble.lua",
+      "decodedLength": 25155,
+      "sha256": "0f3d5275a3f2a34efa51b88d3568b50da9d2596db7615871e36bb9cf93067bc9"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Yareli/Abilities/YareliDisks.lua",
+      "decodedLength": 11634,
+      "sha256": "cb66af113b0ddaca41d7a2c2aa58c183ae28dad47e79c9f8269fe7b052d0b2f2"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Yareli/Abilities/YareliDisks.lua",
+      "decodedLength": 21924,
+      "sha256": "f8aac114fecc7351014efb3296f941d3dcc4817fa160c2bd87e6cb8e38c74dd8"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Yareli/Abilities/YareliSpout.lua",
+      "decodedLength": 18315,
+      "sha256": "98caa2d3a4e572c324f11b3ac1c355567c447e06e82db0e17eb61a5bb476c36a"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Powersuits/Yareli/Abilities/YareliSpout.lua",
+      "decodedLength": 28576,
+      "sha256": "c1c255aa2de368b9e83e26a53592112d89401942011b597f1b809d5250d41043"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Scripts/KuvaPath/AntiVoidSurgeEvent.lua",
+      "decodedLength": 13472,
+      "sha256": "07d2abb018dbe5d57d509cfdd5bfe58f417f5f20517abc241e9312aa9b5dd20e"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Scripts/KuvaPath/AntiVoidSurgeEvent.lua",
+      "decodedLength": 14671,
+      "sha256": "32fd634f074c54ed77467afdd0d8ec8979778d29b6cf5d957edc4a9c41cdcdc3"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Scripts/KuvaPath/AntiVoidSurgeEvent.lua",
+      "decodedLength": 15788,
+      "sha256": "8c06a7f3c7738235eb462405f183d90e0e88513a0ddbc9cee48ad5514849fec5"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Scripts/KuvaPath/KuvaKeysLib.lua",
+      "decodedLength": 44046,
+      "sha256": "60c30b4503dccdd735e46c0aed9f9b2f8ea7d5e52bef73751bd0bca9227de565"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Scripts/KuvaPath/KuvaKeysLib.lua",
+      "decodedLength": 68127,
+      "sha256": "4a44ceebfde2a75d36670288a4ddf07906fc25fda51c46d9ddc467a66a5f1656"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Scripts/KuvaPath/KuvaKeysLib.lua",
+      "decodedLength": 68160,
+      "sha256": "b647a738fa9428f13ba140a5468b43c0081184b54b71b13571246bdfb69f21da"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Scripts/KuvaPath/KuvaPath.lua",
+      "decodedLength": 60957,
+      "sha256": "c40ed0a1c3bccd6cbc27c9bcd3ed57aba70ea9dc3212f08656ca38253635bcf0"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Scripts/KuvaPath/LockedCrateEvent.lua",
+      "decodedLength": 12581,
+      "sha256": "121d00802544d50bc0adc67bb8600289ab80339e23057a44d90c260c4712b3e3"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Scripts/KuvaPath/LockedCrateEvent.lua",
+      "decodedLength": 14248,
+      "sha256": "05080f13f97829cafc5d1690b3c377ffa093d881e34b53353bbadad2fe1c932e"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Scripts/KuvaPath/LockedCrateEvent.lua",
+      "decodedLength": 15289,
+      "sha256": "7e3483435365f5c4fe720b4398ee601782f73634d29e13d8dcc47e971e76fbed"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Scripts/KuvaPath/SignalBridgeEvent.lua",
+      "decodedLength": 15782,
+      "sha256": "0eea3b240ebf0c5e107d8e45584835d457074d3ae079ad52a1d6632a39992812"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Scripts/KuvaPath/SignalBridgeEvent.lua",
+      "decodedLength": 19388,
+      "sha256": "667c7e7c0a7b6e956188536825be7a5d5d7c7aba0fab398ce8ba7baac6b67876"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Scripts/KuvaPath/SignalBridgeEvent.lua",
+      "decodedLength": 19670,
+      "sha256": "ca9b5c2e8fada9aa7e76b36a85151bb42c7db2c7257f77d8a25a98b6d05332bb"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Scripts/Libs/AbilitiesLib.lua",
+      "decodedLength": 82550,
+      "sha256": "1e12de60c208db698548a56faa69397d3183ab0c319a5dbb232aba20d6da63de"
+    },
+    {
+      "cache": "Cache.Windows/B.Font.cache",
+      "path": "/Lotus/Types/Enemies/Tau/Primes/Mesa/PeaceMaker.lua",
+      "decodedLength": 10456,
+      "sha256": "876a6b65b757686ea3ad485eb8b2e174b408c8e9fca6d143d974cb45055f043f"
+    },
+    {
+      "cache": "Cache.Windows/H.Font.cache",
+      "path": "/Lotus/Powersuits/Ember/Abilities/EmberInferno.lua",
+      "decodedLength": 712,
+      "sha256": "7d03deab688f6be60dff21dcbc3e1cc0402b6638a872f7763b716ff72b8dac77"
+    },
+    {
+      "cache": "Cache.Windows/H.Font.cache",
+      "path": "/Lotus/Powersuits/Ember/Abilities/EmberInferno.lua",
+      "decodedLength": 754,
+      "sha256": "038f5eeee4a2774e7a6cdc407b5de3abca53b8719b1638c717ed6cb15804bdcb"
+    },
+    {
+      "cache": "Cache.Windows/H.Misc.cache",
+      "path": "/Lotus/Fx/PowersuitAbilities/Ember/InfernoBlazeMeshMat",
+      "decodedLength": 2132,
+      "sha256": "a61e7090ed8ab5dbfd6bf4b4466c794437e3dfc02d2db5d40e558b23bc93df4a"
+    },
+    {
+      "cache": "Cache.Windows/H.Misc.cache",
+      "path": "/Lotus/Fx/PowersuitAbilities/Ember/InfernoCastMeshAMat",
+      "decodedLength": 2190,
+      "sha256": "ab79fca8de2ddb72dadaeac29f2756b83969b5a8eaea493e50a80f6b5ce26642"
+    },
+    {
+      "cache": "Cache.Windows/H.Misc.cache",
+      "path": "/Lotus/Fx/PowersuitAbilities/Excalibur/DoomSwordProjMeshMat",
+      "decodedLength": 1963,
+      "sha256": "d2d5a6548ff1379b857e6c35fb366d7320f69f5e4162a4081cfda12f9d257731"
+    },
+    {
+      "cache": "Cache.Windows/H.Misc.cache",
+      "path": "/Lotus/Fx/PowersuitAbilities/Yareli/YareliDisc.fbx",
+      "decodedLength": 871,
+      "sha256": "e0ef76545975ec5963be9b6e79349bdf49bfee886930e9b02ad6b779f70dc185"
+    },
+    {
+      "cache": "Cache.Windows/H.Misc.cache",
+      "path": "/Lotus/Fx/PowersuitAbilities/Yareli/YareliDiscCore.fbx",
+      "decodedLength": 606,
+      "sha256": "e36766923dab325e8fb22cf3477e914e5aabf9cd6bb705c088a8a57cb607e860"
+    },
+    {
+      "cache": "Cache.Windows/H.Misc.cache",
+      "path": "/Lotus/Fx/PowersuitAbilities/Yareli/YareliDiscWater.fbx",
+      "decodedLength": 596,
+      "sha256": "8cdfcdbaa93a9ca8f80f219821314201faa9e22a2c45d515831e2f5f3ccaed01"
+    }
+  ]
+}
